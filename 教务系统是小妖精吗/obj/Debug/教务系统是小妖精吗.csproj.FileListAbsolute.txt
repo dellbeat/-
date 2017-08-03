@@ -1,0 +1,17 @@
+F:\LockScrean\教务系统是小妖精吗\教务系统是小妖精吗\bin\Debug\教务系统是小妖精吗.exe.config
+F:\LockScrean\教务系统是小妖精吗\教务系统是小妖精吗\obj\Debug\教务系统是小妖精吗.csprojResolveAssemblyReference.cache
+F:\LockScrean\教务系统是小妖精吗\教务系统是小妖精吗\obj\Debug\教务系统是小妖精吗.Properties.Resources.resources
+F:\LockScrean\教务系统是小妖精吗\教务系统是小妖精吗\obj\Debug\教务系统是小妖精吗.csproj.GenerateResource.Cache
+F:\LockScrean\教务系统是小妖精吗\教务系统是小妖精吗\bin\Debug\教务系统是小妖精吗.exe
+F:\LockScrean\教务系统是小妖精吗\教务系统是小妖精吗\bin\Debug\教务系统是小妖精吗.pdb
+F:\LockScrean\教务系统是小妖精吗\教务系统是小妖精吗\obj\Debug\教务系统是小妖精吗.exe
+F:\LockScrean\教务系统是小妖精吗\教务系统是小妖精吗\obj\Debug\教务系统是小妖精吗.pdb
+F:\LockScrean\教务系统是小妖精吗\教务系统是小妖精吗\bin\Debug\System.Web.Http.dll
+F:\LockScrean\教务系统是小妖精吗\教务系统是小妖精吗\bin\Debug\System.Net.Http.Formatting.dll
+F:\LockScrean\教务系统是小妖精吗\教务系统是小妖精吗\bin\Debug\Newtonsoft.Json.dll
+F:\LockScrean\教务系统是小妖精吗\教务系统是小妖精吗\bin\Debug\System.Web.Http.xml
+F:\LockScrean\教务系统是小妖精吗\教务系统是小妖精吗\bin\Debug\System.Net.Http.Formatting.xml
+F:\LockScrean\教务系统是小妖精吗\教务系统是小妖精吗\bin\Debug\zh-Hans\System.Web.Http.resources.dll
+F:\LockScrean\教务系统是小妖精吗\教务系统是小妖精吗\bin\Debug\zh-Hans\System.Net.Http.Formatting.resources.dll
+F:\LockScrean\教务系统是小妖精吗\教务系统是小妖精吗\obj\Debug\教务系统是小妖精吗.LoginForm.resources
+F:\LockScrean\教务系统是小妖精吗\教务系统是小妖精吗\obj\Debug\教务系统是小妖精吗.ClassForm.resources
